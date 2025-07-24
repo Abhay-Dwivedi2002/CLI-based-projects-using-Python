@@ -1,0 +1,2 @@
+Hello everyone .
+This is Python project Simple Text Editor using Tkinter module.
